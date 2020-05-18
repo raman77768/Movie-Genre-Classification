@@ -6,4 +6,4 @@ VGG16 Architecture:The input to cov1 layer is of fixed size 224 x 224 RGB image.
 
 ![alt text](https://neurohive.io/wp-content/uploads/2018/11/vgg16-neural-network.jpg)
 
-The code also consists of poster fetching and then recommending similar movie names and movie links to the user. 
+The code also consists of poster fetching and then recommending similar movie names and movie links to the user.Enter the nameof the movie and voila it will tell the genre of the movie with the poster and will recommend 5 movies to the user.
