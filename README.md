@@ -10,4 +10,4 @@ The code also consists of poster fetching and then recommending similar movie na
 
 
 # Flask Web App
-![screenshot](Capture.png)
+![alt text](Capture.PNG)
