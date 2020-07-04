@@ -11,3 +11,14 @@ The code also consists of poster fetching and then recommending similar movie na
 
 # Flask Web App
 ![alt text](Capture.PNG)
+
+
+How to Install:
+
+1.Clone or download the repo
+
+2.Install all the required python dependencies
+
+3.Run the script.py file in the terminal
+
+4.Access the web app on localhost:5000
